@@ -10,46 +10,56 @@ I’m a **software engineer** passionate about **data structures, algorithms, an
 
 ### 🔍 Featured Projects  
 <div align="center">
-    <table>
+    <table width="100%">
         <tr>
-            <td align="center" width="250px">
-                <a href="https://ishu9bansal.github.io/huffman" target="_blank">
-                    <img src="https://raw.githubusercontent.com/ishu9bansal/huffman/main/thumbnail.png" width="200px" alt="Huffman Coding" /><br />
-                    <strong>Huffman Coding</strong>
-                </a>
-                <p style="text-align: center;">Interactive visualization of Huffman encoding & decoding.</p>
+            <td width="33%" align="center">
+                <a href="https://ishu9bansal.github.io/huffman" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/huffman/main/thumbnail.png" width="200px" alt="Huffman Coding" /> </a>
             </td>
-            <td align="center" width="250px">
-                <a href="https://ishu9bansal.github.io/game-of-life" target="_blank">
-                    <img src="https://raw.githubusercontent.com/ishu9bansal/game-of-life/main/thumbnail.png" width="200px" alt="Game of Life" /><br />
-                    <strong>Game of Life</strong>
-                </a>
-                <p style="text-align: center;">A sandbox for exploring Conway’s Game of Life and emergent behavior.</p>
-            </td>
-            <td align="center" width="250px">
-                <a href="https://ishu9bansal.github.io/mandelbrot" target="_blank">
-                    <img src="https://raw.githubusercontent.com/ishu9bansal/mandelbrot/main/thumbnail.png" width="200px" alt="Mandelbrot Set" /><br />
-                    <strong>Mandelbrot Set</strong>
-                </a>
-                <p style="text-align: center;">Infinite zoom into fractals with insights on chaos and complexity.</p>
+            <td>
+                <h4><a href="https://ishu9bansal.github.io/huffman" target="_blank">Huffman Coding</a></h4>
+                <p>Interactive visualization of Huffman encoding & decoding.</p>
+                🔗 <a href="https://github.com/ishu9bansal/huffman" target="_blank">View Repo</a>
             </td>
         </tr>
         <tr>
-            <td align="center" width="250px">
-                <a href="https://ishu9bansal.github.io/rubik_cube/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/ishu9bansal/rubik_cube/main/thumbnail.png" width="200px" alt="Rubik’s Cube" /><br />
-                    <strong>Rubik’s Cube</strong>
-                </a>
-                <p style="text-align: center;">A rotating, interactive cube revealing group theory in action.</p>
+            <td width="33%" align="center">
+                <a href="https://ishu9bansal.github.io/game-of-life" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/game-of-life/main/thumbnail.png" width="200px" alt="Game of Life" /> </a>
             </td>
-            <td align="center" width="250px">
-                <a href="https://ishu9bansal.github.io/ideone/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/ishu9bansal/ideone/main/thumbnail.png" width="200px" alt="DSA Repository" /><br />
-                    <strong>DSA Repository</strong>
-                </a>
-                <p style="text-align: center;">Curated competitive programming snippets with clean explanations.</p>
+            <td>
+                <h4><a href="https://ishu9bansal.github.io/game-of-life" target="_blank">Game of Life</a></h4>
+                <p>A sandbox for exploring Conway’s Game of Life and emergent behavior.</p>
+                🔗 <a href="https://github.com/ishu9bansal/game-of-life" target="_blank">View Repo</a>
             </td>
-            <td></td>
+        </tr>
+        <tr>
+            <td width="33%" align="center">
+                <a href="https://ishu9bansal.github.io/mandelbrot" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/mandelbrot/main/thumbnail.png" width="200px" alt="Mandelbrot Set" /> </a>
+            </td>
+            <td>
+                <h4><a href="https://ishu9bansal.github.io/mandelbrot" target="_blank">Mandelbrot Set</a></h4>
+                <p>Infinite zoom into fractals with insights on chaos and complexity.</p>
+                🔗 <a href="https://github.com/ishu9bansal/mandelbrot" target="_blank">View Repo</a>
+            </td>
+        </tr>
+        <tr>
+            <td width="33%" align="center">
+                <a href="https://ishu9bansal.github.io/rubik_cube/" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/rubik_cube/main/thumbnail.png" width="200px" alt="Rubik's Cube" /> </a>
+            </td>
+            <td>
+                <h4><a href="https://ishu9bansal.github.io/rubik_cube/" target="_blank">Rubik's Cube</a></h4>
+                <p>A rotating, interactive cube revealing group theory in action.</p>
+                🔗 <a href="https://github.com/ishu9bansal/rubik_cube" target="_blank">View Repo</a>
+            </td>
+        </tr>
+        <tr>
+            <td width="33%" align="center">
+                <a href="https://ishu9bansal.github.io/ideone/" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/ideone/main/thumbnail.png" width="200px" alt="DSA Repository" /> </a>
+            </td>
+            <td>
+                <h4><a href="https://ishu9bansal.github.io/ideone/" target="_blank">DSA Repository</a></h4>
+                <p>Curated competitive programming snippets with clean explanations.</p>
+                🔗 <a href="https://github.com/ishu9bansal/ideone" target="_blank">View Repo</a>
+            </td>
         </tr>
     </table>
 </div>
