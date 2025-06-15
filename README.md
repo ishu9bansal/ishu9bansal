@@ -13,7 +13,7 @@ I’m a **software engineer** passionate about **data structures, algorithms, an
     <table width="100%">
         <tr>
             <td width="33%" align="center">
-                <a href="https://ishu9bansal.github.io/huffman" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/huffman/main/thumbnail.png" width="200px" alt="Huffman Coding" /> </a>
+                <a href="https://ishu9bansal.github.io/huffman" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/huffman/master/thumbnail.png" width="200px" alt="Huffman Coding" /> </a>
             </td>
             <td>
                 <h4><a href="https://ishu9bansal.github.io/huffman" target="_blank">Huffman Coding</a></h4>
@@ -33,7 +33,7 @@ I’m a **software engineer** passionate about **data structures, algorithms, an
         </tr>
         <tr>
             <td width="33%" align="center">
-                <a href="https://ishu9bansal.github.io/mandelbrot" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/mandelbrot/main/thumbnail.png" width="200px" alt="Mandelbrot Set" /> </a>
+                <a href="https://ishu9bansal.github.io/mandelbrot" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/mandelbrot/master/thumbnail.png" width="200px" alt="Mandelbrot Set" /> </a>
             </td>
             <td>
                 <h4><a href="https://ishu9bansal.github.io/mandelbrot" target="_blank">Mandelbrot Set</a></h4>
@@ -43,7 +43,7 @@ I’m a **software engineer** passionate about **data structures, algorithms, an
         </tr>
         <tr>
             <td width="33%" align="center">
-                <a href="https://ishu9bansal.github.io/rubik_cube/" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/rubik_cube/main/thumbnail.png" width="200px" alt="Rubik's Cube" /> </a>
+                <a href="https://ishu9bansal.github.io/rubik_cube/" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/rubik_cube/master/thumbnail.png" width="200px" alt="Rubik's Cube" /> </a>
             </td>
             <td>
                 <h4><a href="https://ishu9bansal.github.io/rubik_cube/" target="_blank">Rubik's Cube</a></h4>
@@ -53,7 +53,7 @@ I’m a **software engineer** passionate about **data structures, algorithms, an
         </tr>
         <tr>
             <td width="33%" align="center">
-                <a href="https://ishu9bansal.github.io/ideone/" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/ideone/main/thumbnail.png" width="200px" alt="DSA Repository" /> </a>
+                <a href="https://ishu9bansal.github.io/ideone/" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/ideone/master/thumbnail.png" width="200px" alt="DSA Repository" /> </a>
             </td>
             <td>
                 <h4><a href="https://ishu9bansal.github.io/ideone/" target="_blank">DSA Repository</a></h4>
