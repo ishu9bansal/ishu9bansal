@@ -33,7 +33,7 @@ I’m a **software engineer** passionate about **data structures, algorithms, an
         </tr>
         <tr>
             <td width="33%" align="center">
-                <a href="https://ishu9bansal.github.io/mandelbrot" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/mandelbrot/refs/heads/master/assets/mandelbrot-og-image.png" width="200px" alt="Mandelbrot Set" /> </a>
+                <a href="https://ishu9bansal.github.io/mandelbrot" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/mandelbrot/master/thumbnail.png" width="200px" alt="Mandelbrot Set" /> </a>
             </td>
             <td>
                 <h4><a href="https://ishu9bansal.github.io/mandelbrot" target="_blank">Mandelbrot Set</a></h4>
