@@ -23,7 +23,7 @@ I’m a **software engineer** passionate about **data structures, algorithms, an
         </tr>
         <tr>
             <td width="33%" align="center">
-                <a href="https://ishu9bansal.github.io/game-of-life" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/game-of-life/main/thumbnail.png" width="200px" alt="Game of Life" /> </a>
+                <a href="https://ishu9bansal.github.io/game-of-life" target="_blank"> <img src="https://raw.githubusercontent.com/ishu9bansal/game-of-life/main/thumbnail.gif" width="200px" alt="Game of Life" /> </a>
             </td>
             <td>
                 <h4><a href="https://ishu9bansal.github.io/game-of-life" target="_blank">Game of Life</a></h4>
